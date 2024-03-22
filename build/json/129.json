@@ -1,0 +1,47 @@
+{
+  "name": "Joi #129",
+  "description": "bringing joi to life!",
+  "file_url": "ipfs://NewUriToReplace/129.png",
+  "image": "ipfs://NewUriToReplace/129.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BG2"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "EACCoin"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VRSet"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Lips5"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Grey Top"
+    },
+    {
+      "trait_type": "Sweater",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Red"
+    }
+  ],
+  "custom_fields": {
+    "dna": "9dbda6ad3026bafc2ff1149cb3aa40686673acbc",
+    "edition": 129,
+    "date": 1711126147052,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  "external_url": "https://codecats.xyz"
+}

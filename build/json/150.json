@@ -1,0 +1,47 @@
+{
+  "name": "Joi #150",
+  "description": "bringing joi to life!",
+  "file_url": "ipfs://NewUriToReplace/150.png",
+  "image": "ipfs://NewUriToReplace/150.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BG2"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Stars"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "FutureGlasses"
+    },
+    {
+      "trait_type": "Lips",
+      "value": "Lips1"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Bikini"
+    },
+    {
+      "trait_type": "Sweater",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Teal"
+    }
+  ],
+  "custom_fields": {
+    "dna": "678251e8ec55eb677543f26a32caf449b8c53dee",
+    "edition": 150,
+    "date": 1711126164571,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  "external_url": "https://codecats.xyz"
+}
