@@ -1,47 +1,47 @@
 {
-  "name": "Joi #122",
+  "name": "injoi # #122",
   "description": "bringing joi to life!",
   "file_url": "ipfs://NewUriToReplace/122.png",
   "image": "ipfs://NewUriToReplace/122.png",
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "BG2"
+      "value": "Tokyo Alley"
     },
     {
       "trait_type": "Accessories",
-      "value": "Stars"
+      "value": "None"
     },
     {
       "trait_type": "Skin",
-      "value": "Caucasian"
+      "value": "White"
     },
     {
       "trait_type": "Eyes",
-      "value": "VRSet"
+      "value": "Green intrigued"
     },
     {
       "trait_type": "Lips",
-      "value": "Lips5"
+      "value": "Normal"
     },
     {
       "trait_type": "Shirt",
-      "value": "Bikini"
+      "value": "Black"
     },
     {
       "trait_type": "Sweater",
-      "value": "Teal"
+      "value": "Turquoise"
     },
     {
       "trait_type": "Hair",
-      "value": "Teal"
+      "value": "Red"
     }
   ],
   "custom_fields": {
-    "dna": "f69d3bfe91a305b2ea8e6e5bd0a1aea7f996752b",
+    "dna": "e62a0775b6d317bd77c1a8e2d6e186038b2e2395",
     "edition": 122,
-    "date": 1711126141373,
+    "date": 1711474132062,
     "compiler": "HashLips Art Engine - codeSTACKr Modified"
   },
-  "external_url": "https://codecats.xyz"
+  "external_url": "https://injoi.xyz"
 }

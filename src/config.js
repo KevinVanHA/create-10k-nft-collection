@@ -6,14 +6,14 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "Joi";
+const namePrefix = "injoi #";
 const description = "bringing joi to life!";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 1500,
+    growEditionSizeTo: 200,
     layersOrder: [
       { name: "Background" },
       { name: "Accessories" },
@@ -38,7 +38,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://codecats.xyz", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://injoi.xyz", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
